@@ -1,4 +1,4 @@
 Project 1
-Create and setup your Git and GitHub account <br />
+Be uptodate <br />
 Name: __Biniyam Dereje__ <br />
 
